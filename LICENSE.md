@@ -1,4 +1,4 @@
-
+Enhance Things 3 for macOS with Things 3 for macOS secure Workflow - dark mode and OCR scanning, the #1 workflow. Includes dark mode and OCR scanning for a smoother experience.
 
 
 
